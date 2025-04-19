@@ -1,61 +1,61 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Hisaya Okahara",
+    "email": "hisaya.okahara@gmail.com",
     "phone": "",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Ph.D. student at Tokyo University of Science",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Earth",
-      "countryCode": "US",
+      "countryCode": "Japan",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Hisaya Okahara",
+        "url": "https://scholar.google.com/citations?user=xx6ZBSUAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "Hisaya Okahara",
+        "url": "https://orcid.org/0009-0000-6410-603X"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "h-okahara",
+        "url": "https://github.com/h-okahara"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Tokyo University of Science",
+      "area": "Ph.D. in Information Sciences",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2025",
+      "endDate": "2028",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Tokyo University of Science",
+      "area": "M.Sc. in Information Sciences",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2023",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Tokyo University of Science",
+      "area": "B.Sc. in Information Sciences",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2019",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     }
