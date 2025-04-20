@@ -5,7 +5,7 @@ permalink: /experiences/
 author_profile: true
 ---
 
-## <u> Industry Experience <u>
+## Industry Experience
 ---
 
 **manabo Inc.**, Tokyo  
@@ -22,7 +22,7 @@ author_profile: true
 
 
 
-## <u> Teaching Assistant <u>
+## Teaching Assistant
 ---
 
 ### Faculty of Science and Technology, Tokyo University of Science
