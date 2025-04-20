@@ -35,17 +35,6 @@ author:
   linkedin         : "h-okahara"
   
 
-# Publication Category
-publication_category:
-  manuscripts:
-    title: 'Journal Articles'
-  manuscripts:
-    title: 'Preprint'
-  # books:
-  #   title: 'Books'
-  # conferences:
-  #   title: 'Conference Papers'
-
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
