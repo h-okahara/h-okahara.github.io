@@ -30,10 +30,10 @@ I'm a Ph.D. student at [Tahata Lab.](https://tahata-lab.is.noda.tus.ac.jp/) in [
 - Okahara, H. and Tahata, K. (2025), "A generalized ordinal quasi-symmetry model and its separability for analyzing multi-way tables". *Japanese Journal of Statistics and Data Science*. <span style="color: red;">[open access]</span> ([publication](https://link.springer.com/article/10.1007/s42081-024-00289-4), [arXiv](https://arxiv.org/abs/2405.04193))
 
 
-# Awards & Grants
+# Grants & Fellowships
 ---
-- 次世代研究者挑戦的研究プログラム, JST (2025.04 - Present)
-
+- 2025/04 – Present 次世代研究者挑戦的研究プログラム (SPRING), JST.  
+  <small> (SPRING: Support for Pioneering Research Initiated by the Next Generation, Japan Science and Technology Agency) </small>
 
 # Education
 ---
@@ -43,5 +43,5 @@ I'm a Ph.D. student at [Tahata Lab.](https://tahata-lab.is.noda.tus.ac.jp/) in [
 
 # Memberships
 ---
-- Mathematical Society of Japan (2023.10 – Present)
-- Japan Society of Applied Statistics (2023.02 – Present)
+- Mathematical Society of Japan (2023/10 – Present)
+- Japan Society of Applied Statistics (2023/02 – Present)
