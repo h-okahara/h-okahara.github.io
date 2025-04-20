@@ -1,27 +1,27 @@
 /* ==========================================================================
-   SHARED THEME SETTINGS
+   THEME SETTINGS
    ========================================================================== */
 
-/* ==========================================================================
-   TYPOGRAPHY
-   ========================================================================== */
-
-// Set the default theme to dark
+/* Set the default theme to dark */
 :root {
   color-scheme: dark;
 }
 
-// Default to dark theme
+/* Default to dark theme */
 html {
   data-theme: "dark";
 }
 
-// Theme switching - always default to dark
+/* Theme switching - always default to dark */
 html[data-theme="light"] {
 }
-
 html[data-theme="dark"] {
 }
+
+
+/* ==========================================================================
+   TYPOGRAPHY
+   ========================================================================== */
 
 /* Used to set the size for <em> */
 $doc-font-size              : 16;
