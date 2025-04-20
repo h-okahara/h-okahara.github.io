@@ -11,6 +11,8 @@
 @import
     "vendor/breakpoint/breakpoint",
 
+    "minimal-mistakes",
+    "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}",
     "themes",
     "theme/dark",
     "theme/default",
