@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : ""
+site_theme               : "dark"
 title                    : "Hisaya Okahara"
 title_separator          : "-"
 name                     : "Hisaya Okahara"
@@ -51,7 +51,7 @@ comments:
   facebook:
     appid                :
     num_posts            :
-    colorscheme          : "dark"
+    colorscheme          : 
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
