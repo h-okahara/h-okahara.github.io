@@ -19,7 +19,7 @@ repository               : "h-okahara/h-okahara.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Hisaya Okahara"
   bio              : "岡原 久也"
   location         : "Chiba, Japan"
