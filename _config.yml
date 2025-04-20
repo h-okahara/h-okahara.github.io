@@ -19,9 +19,8 @@ repository               : "h-okahara/h-okahara.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Hisaya Okahara"
-  pronouns         : # example: "she/her"  
   bio              : "岡原 久也"
   location         : "Chiba, Japan"
   employer         : "Tokyo University of Science"
