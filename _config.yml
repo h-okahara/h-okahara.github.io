@@ -71,7 +71,8 @@ staticman:
 atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
-
+remote_theme            : "h-okahara/h-okahara.github.io"
+minimal_mistakes_skin   : "dark"
 
 # SEO Related
 google_site_verification :
