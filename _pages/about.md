@@ -21,7 +21,6 @@ I'm a Ph.D. student at [Tahata Lab.](https://tahata-lab.is.noda.tus.ac.jp/) in [
 
 
 # Recent Papers  
----  
 ## Preprint  
 - Okahara, H. and Tahata, K. (2024), "Asymmetry models and separability for multi-way contingency tables with ordinal categories". arXiv preprint, [arXiv:2405.12157](https://arxiv.org/abs/2405.12157)
 
