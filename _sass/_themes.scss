@@ -6,6 +6,23 @@
    TYPOGRAPHY
    ========================================================================== */
 
+// Set the default theme to dark
+:root {
+  color-scheme: dark;
+}
+
+// Default to dark theme
+html {
+  data-theme: "dark";
+}
+
+// Theme switching - always default to dark
+html[data-theme="light"] {
+}
+
+html[data-theme="dark"] {
+}
+
 /* Used to set the size for <em> */
 $doc-font-size              : 16;
 
