@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 ---
-I'm a Ph.D. student in the [Tahata Lab.](https://tahata-lab.is.noda.tus.ac.jp/) at the [Tokyo University of Science](https://www.tus.ac.jp/en/grad/riko/).
+I'm a Ph.D. student in the [Tahata Lab](https://tahata-lab.is.noda.tus.ac.jp/) at the [Tokyo University of Science](https://www.tus.ac.jp/en/grad/riko/).
 
 
 # Research Interests
