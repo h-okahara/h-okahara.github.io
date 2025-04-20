@@ -9,16 +9,16 @@ author_profile: true
 ---
 
 - **manabo Inc.**, Tokyo  
-  *Data Scientist*, Jul. 2023 – Mar. 2025  
-  Performed data analytics using Python, R, and SQL to drive business insights and strategic decisions.
+  *Data Scientist*, July 2023 – March 2025  
+  <small> (Performed data analytics using Python, R, and SQL to drive business insights and strategic decisions) </small>
 
 - **manabo Inc.**, Tokyo  
-  *Internship*, Apr. 2022 – Mar. 2023  
-  Developed BI tools and performed data analysis using GAS, Python, and SQL.
+  *Internship*, April 2022 – March 2023  
+  <small> (Developed BI tools and performed data analysis using GAS, Python, and SQL) </small>
 
 - **SATT AI Lab Inc. (formerly manabo Inc.)**, Tokyo  
-  *Internship*, Jul. 2019 – Mar. 2022  
-  Executed quality control processes and developed BI tools using GAS and SQL.
+  *Internship*, July 2019 – March 2022  
+  <small> (Executed quality control processes and developed BI tools using GAS and SQL) </small>
 
 
 ## Teaching Assistant
