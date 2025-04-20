@@ -10,23 +10,7 @@
 main:
   - title: "Publications"
     url: /publications/
-  - title: "Talks"
-    url: /talks/      
+  - title: "Presentations"
+    url: /presentations/      
   - title: "Experiences"
     url: /experiences/
-
-papers:
-  # - title: "Books"
-  #   url: "/papers/#books"
-  - title: "Published and accepted papers"
-    url: "/papers/#published-papers"
-  - title: "Preprints"
-    url: "/papers/#preprints"
-
-experiences:
-  - title: "Industry Experience"
-    url: "/experiences/#industry-experience"
-  # - title: "Research assistant"
-  #   url: "/experiences/#research-assistant"
-  - title: "Teaching Assistant"
-    url: "/experiences/#teaching-assistant"
