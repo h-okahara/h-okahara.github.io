@@ -10,24 +10,23 @@
 main:
   - title: "Publications"
     url: /publications/
-
   - title: "Talks"
-    url: /talks/    
+    url: /talks/      
+  - title: "Experiences"
+    url: /experiences/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+papers:
+  # - title: "Books"
+  #   url: "/papers/#books"
+  - title: "Published and accepted papers"
+    url: "/papers/#published-papers"
+  - title: "Preprints"
+    url: "/papers/#preprints"
+
+experiences:
+  - title: "Industry Experience"
+    url: "/experiences/#industry-experience"
+  # - title: "Research assistant"
+  #   url: "/experiences/#research-assistant"
+  - title: "Teaching Assistant"
+    url: "/experiences/#teaching-assistant"
