@@ -51,7 +51,7 @@ comments:
   facebook:
     appid                :
     num_posts            :
-    colorscheme          :
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
