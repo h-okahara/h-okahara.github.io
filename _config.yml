@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "midnight"
 title                    : "Hisaya Okahara"
 title_separator          : "-"
 name                     : "Hisaya Okahara"
