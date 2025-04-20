@@ -29,7 +29,7 @@ Publication
 
 Awards & Grants
 ------
-- 2025/04~ 次世代研究者挑戦的研究プログラム, JST.
+- 2025/04 - Present 次世代研究者挑戦的研究プログラム, JST.
 
 
 Education
