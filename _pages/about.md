@@ -37,10 +37,8 @@ I'm a Ph.D. student in the [Tahata Lab](https://tahata-lab.is.noda.tus.ac.jp/) a
 
 # Education
 ---
-<i class="bi bi-mortarboard" style="color:#ffae00; font-size:1.3em; vertical-align:middle;"></i>
-  M.S. in Science, Tokyo University of Science (2025)  
-<i class="bi bi-mortarboard" style="color:#ffae00; font-size:1.3em; vertical-align:middle;"></i>
-  B.S. in Science, Tokyo University of Science (2023)
+- M.S. in Science, Tokyo University of Science (2025)  
+- B.S. in Science, Tokyo University of Science (2023)
 
 
 # Memberships
