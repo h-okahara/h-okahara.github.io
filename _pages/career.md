@@ -9,21 +9,21 @@ author_profile: true
 ## ACADEMIC CAREER
 --- 
 
-- 2015/04 – 2018/03 &nbsp; Kagawa Prefectural Marugame High School
-- 2019/04 – 2023/03 &nbsp; B.S. Faculty of Science and Technology, Tokyo University of Science
-- 2023/04 – 2025/03 &nbsp; M.S. Graduate School of Science and Technology, Tokyo University of Science 
 - 2025/04 – Present &nbsp;&nbsp; Ph.D. Graduate School of Science and Technology, Tokyo University of Science 
+- 2023/04 – 2025/03 &nbsp; M.S. Graduate School of Science and Technology, Tokyo University of Science 
+- 2019/04 – 2023/03 &nbsp; B.S. Faculty of Science and Technology, Tokyo University of Science
+- 2015/04 – 2018/03 &nbsp; Kagawa Prefectural Marugame High School
 
 
 ## INDUSTRY EXPERIENCE
 ---
 
-- **manabo Inc.**, Tokyo  
-  *Freelance Data Scientist*, July 2023 – March 2025  
+- 2023/07 - 2025/03 &nbsp; **manabo Inc.**, Tokyo.  
+  *Freelance Data Scientist*  
   <small> (Performed data analytics using Python, R, and SQL to drive business insights and strategic decisions) </small>
 
-- **manabo Inc.** (formerly **SATT AI Lab Inc.**), Tokyo  
-  *Intern*, July 2019 – March 2023  
+- 2019/07 - 2023/03 &nbsp; **manabo Inc.** (formerly **SATT AI Lab Inc.**), Tokyo.  
+  *Intern*
   <small> (Executed quality control processes, developed BI tools, and performed data analysis using GAS, Python, and SQL) </small>
 
   
