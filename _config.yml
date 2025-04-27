@@ -17,13 +17,6 @@ url                      : "https://h-okahara.github.io"
 baseurl                  : ""
 repository               : "h-okahara/h-okahara.github.io"
 
-# Language Setting
-languages:
-  - code: en
-    name: English
-    default: true
-  - code: ja
-    name: 日本語
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
