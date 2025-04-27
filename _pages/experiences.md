@@ -32,18 +32,18 @@ author_profile: true
 ---
 
 ### Faculty of Science and Technology, Tokyo University of Science  
-&nbsp; **2025**
+**2025**
 - Probability Theory 1 and its Exercises
 - Information Theory 1 and its Exercises
 
-&nbsp; **2024**
+**2024**
 - Statistics 1 and its Exercises 
 - Probability Theory 2 and its Exercises
 - Linear Algebra2 and its Exercises 
 - Probability Theory 1 and its Exercises
 - Mathematics for Information Sciences 1A and its Exercises 
 
-&nbsp; **2023**
+**2023**
 - Mathematics for Information Sciences 1B and its Exercises
 - Linear Algebra2 and its Exercises
 - Mathematics for Information Sciences 1A and its Exercises
