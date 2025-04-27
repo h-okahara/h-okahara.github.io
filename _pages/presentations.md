@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Presentations"
+title: "PRESENTATION"
 permalink: /presentations/
 author_profile: true
 ---
 
-## International
+## INTERNATIONAL CONFERENCE
 ---
 **2025**
 - **Okahara, H.** "f-divergence based modeling of asymmetric structures in multi-way ordinal contingency tables", [Further Developments of Information Geometry](https://sites.google.com/view/fdig2025/), Tokyo, Japan, March 20th, 2025.
@@ -17,7 +17,7 @@ author_profile: true
 - **Okahara, H.** and Tahata, K. "On asymmetry models based on f-divergence for multi-way tables", [The Hybrid QBIC Workshop](https://www.rs.noda.tus.ac.jp/qbic/VQBICworkshop2023new.html), Chiba, Japan, October 12th, 2023.
 
   
-## Domestic 
+## NATIONAL CONFERENCE 
 ---
 **2024**
 - **岡原久也**, 田畑耕治. 「多元分割表における一般化順序準対称モデルと対称性の必要十分条件」, [日本数学会2024年度秋季総合分科会](https://www.mathsoc.jp/activity/meeting/osaka24sept/index.html), 大阪大学, 9月6日, 2024年.
@@ -29,7 +29,7 @@ author_profile: true
 - **岡原久也**, 田畑耕治. 「順序カテゴリをもつ多元分割表における非対称モデルについて」, [2023年度 応用統計学会年会](https://www.applstat.gr.jp/event/annual_meeting/am-2023/), 北海道大学, 4月22日, 2023年.
 
 
-## Seminars & Workshops
+## SEMINAR & WORKSHOP
 ---
 **2024**
 - **岡原久也**. 「多次元分割表モデリング ~f-divergenceに基づく順序準対称モデルと対称構造の構成~」, [第3回データサイエンス医療研究部門シンポジウム](https://www.rs.tus.ac.jp/de-tasaiensuiryou/activity.html), 東京理科大学, 11月, 2024年.
