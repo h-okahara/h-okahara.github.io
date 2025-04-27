@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## INTERNATIONAL CONFERENCE
----
+
 **2025**
 - **Okahara, H.** "f-divergence based modeling of asymmetric structures in multi-way ordinal contingency tables", [Further Developments of Information Geometry](https://sites.google.com/view/fdig2025/), Tokyo, Japan, March 20th, 2025.
 
@@ -18,7 +18,7 @@ author_profile: true
 
   
 ## NATIONAL CONFERENCE 
----
+
 **2024**
 - **岡原久也**, 田畑耕治. 「多元分割表における一般化順序準対称モデルと対称性の必要十分条件」, [日本数学会2024年度秋季総合分科会](https://www.mathsoc.jp/activity/meeting/osaka24sept/index.html), 大阪大学, 9月6日, 2024年.
 - **岡原久也**, 藤澤健吾, 田畑耕治. 「順序付き多元分割表における非対称モデルと分離可能性」, [2024年度 応用統計学会年会](https://www.applstat.gr.jp/event/annual_meeting/am-2024/), 九州大学, 5月9日, 2024年.
@@ -30,7 +30,7 @@ author_profile: true
 
 
 ## SEMINAR & WORKSHOP
----
+
 **2024**
 - **岡原久也**. 「多次元分割表モデリング ~f-divergenceに基づく順序準対称モデルと対称構造の構成~」, [第3回データサイエンス医療研究部門シンポジウム](https://www.rs.tus.ac.jp/de-tasaiensuiryou/activity.html), 東京理科大学, 11月, 2024年.
 - **岡原久也**, 田畑浩治. 「多元分割表におけるf-divergenceに基づく順序準対称モデルと対称構造の構成」, [統計サマーセミナー2024](https://sites.google.com/view/ysg2024), 新潟県南魚沼郡湯沢町 湯沢ニューオータニ, 7月30日, 2024年.
