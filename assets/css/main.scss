@@ -41,21 +41,3 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
-
-/* Language toggle button styling */
-.lang-toggle {
-  background: none;
-  border: 1px solid;
-  border-radius: 4px;
-  color: inherit;
-  cursor: pointer;
-  font-size: 0.8em;
-  margin-left: 10px;
-  padding: 4px 8px;
-  vertical-align: middle;
-}
-
-/* Hide content based on language */
-[data-lang-en], [data-lang-ja] {
-  display: block;
-}
