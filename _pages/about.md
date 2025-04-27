@@ -33,16 +33,16 @@ I'm a Ph.D. student in the [Tahata Lab](https://tahata-lab.is.noda.tus.ac.jp/) a
 
 # Grants & Fellowships
 ---
-- 2025/04 – Present  次世代研究者挑戦的研究プログラム (SPRING), JST.  
-  <small> (SPRING: Support for Pioneering Research Initiated by the Next Generation, Japan Science and Technology Agency) </small>
+- 2025/04 – Present &nbsp; JST SPRING.  
+  <small> (**JST**: Japan Science and Technology Agency, **SPRING**: Support for Pioneering Research Initiated by the Next Generation) </small>
 
 # Education
 ---
-- M.S. in Science, Tokyo University of Science (2025)  
+- M.S. in Science, Tokyo University of Science (2025)
 - B.S. in Science, Tokyo University of Science (2023)
 
 
 # Memberships
 ---
-- 2023/10 – Present  Mathematical Society of Japan
-- 2023/02 – Present  Japan Society of Applied Statistics
+- 2023/10 – Present &nbsp; Mathematical Society of Japan
+- 2023/02 – Present &nbsp; Japan Society of Applied Statistics
