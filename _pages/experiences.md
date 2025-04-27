@@ -5,8 +5,10 @@ permalink: /experiences/
 author_profile: true
 ---
 
+
 ## Academic Career
 --- 
+
 - 2015/04 – 2018/03 &nbsp; Kagawa Prefectural Marugame High School
 - 2019/04 – 2023/03 &nbsp; B.S. Faculty of Science and Technology, Tokyo University of Science
 - 2023/04 – 2025/03 &nbsp; M.S. Graduate School of Science and Technology, Tokyo University of Science 
