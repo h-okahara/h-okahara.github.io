@@ -9,13 +9,11 @@ redirect_from:
 
 
 ## ABOUT ME
----
 
 I'm a Ph.D. student in the [Tahata Lab](https://tahata-lab.is.noda.tus.ac.jp/) at the [Tokyo University of Science](https://www.tus.ac.jp/en/grad/riko/).
 
 
 ## RESEARCH INTEREST
----
 
 - Latent Variable Modeling
 - Categorical Data Analysis
@@ -24,7 +22,6 @@ I'm a Ph.D. student in the [Tahata Lab](https://tahata-lab.is.noda.tus.ac.jp/) a
 
 
 ## RECENT PAPER
----
 
 **PREPRINT**
 - Okahara, H. and Tahata, K. (2024), "Asymmetry models and separability for multi-way contingency tables with ordinal categories". arXiv preprint, [arXiv:2405.12157](https://arxiv.org/abs/2405.12157)
@@ -34,20 +31,17 @@ I'm a Ph.D. student in the [Tahata Lab](https://tahata-lab.is.noda.tus.ac.jp/) a
 
 
 ## GRANT & FELLOWSHIP
----
 
 - 2025/04 – Present &nbsp; JST SPRING, Japan Science and Technology Agency (JST).  
   <small> (SPRING: Support for Pioneering Research Initiated by the Next Generation) </small>
 
 ## EDUCATION
----
 
 - M.S. in Science, Tokyo University of Science (2025)
 - B.S. in Science, Tokyo University of Science (2023)
 
 
 ## MEMBERSHIP
----
 
 - 2023/10 – Present &nbsp; Mathematical Society of Japan
 - 2023/02 – Present &nbsp; Japan Society of Applied Statistics
