@@ -7,10 +7,20 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
-main:
-  - title: "Publications"
-    url: /publications/
-  - title: "Presentations"
-    url: /presentations/      
-  - title: "Experiences"
-    url: /experiences/
+en:
+  main:
+    - title: "Publications"
+      url: /publications/
+    - title: "Presentations"
+      url: /presentations/      
+    - title: "Experiences"
+      url: /experiences/
+
+ja:
+  main:
+    - title: "出版物"
+      url: /publications/
+    - title: "発表"
+      url: /presentations/      
+    - title: "経歴"
+      url: /experiences/
