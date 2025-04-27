@@ -32,8 +32,8 @@ I'm a Ph.D. student in the [Tahata Lab](https://tahata-lab.is.noda.tus.ac.jp/) a
 
 ## GRANT & FELLOWSHIP
 
-- 2025/04 – Present &nbsp; JST SPRING, Japan Science and Technology Agency (JST).  
-  <div style="padding-left: 10em;"> <small> (SPRING: Support for Pioneering Research Initiated by the Next Generation) </small>
+- 2025/04 – Present &nbsp; JST SPRING, Japan Science and Technology Agency (JST)  
+  <small> SPRING: Support for Pioneering Research Initiated by the Next Generation </small>
 
 ## EDUCATION
 
