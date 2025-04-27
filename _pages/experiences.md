@@ -12,7 +12,7 @@ author_profile: true
   *Freelance Data Scientist*, July 2023 – March 2025  
   <small> (Performed data analytics using Python, R, and SQL to drive business insights and strategic decisions) </small>
 
-- **manabo Inc.** <small>(formerly **SATT AI Lab Inc.**)</small>, Tokyo  
+- **manabo Inc.** (formerly **SATT AI Lab Inc.**), Tokyo  
   *Intern*, July 2019 – March 2023  
   <small> (Executed quality control processes, developed BI tools, and performed data analysis using GAS, Python, and SQL) </small>
 
