@@ -9,7 +9,7 @@ author_profile: true
 ---
 
 - **manabo Inc.**, Tokyo  
-  *Data Scientist*, July 2023 – March 2025  
+  *Freelance Data Scientist*, July 2023 – March 2025  
   <small> (Performed data analytics using Python, R, and SQL to drive business insights and strategic decisions) </small>
 
 - **manabo Inc.** <small>(formerly **SATT AI Lab Inc.**)</small>, Tokyo  
