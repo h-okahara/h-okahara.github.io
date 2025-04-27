@@ -7,7 +7,6 @@ author_profile: true
 
 
 ## ACADEMIC CAREER
---- 
 
 - 2025/04 – Present &nbsp;&nbsp; Ph.D. Graduate School of Science and Technology, Tokyo University of Science 
 - 2023/04 – 2025/03 &nbsp; M.S. Graduate School of Science and Technology, Tokyo University of Science 
@@ -16,7 +15,6 @@ author_profile: true
 
 
 ## INDUSTRY EXPERIENCE
----
 
 - 2023/07 - 2025/03 &nbsp; **manabo Inc.**, Tokyo.  
   *Freelance Data Scientist*  
@@ -29,7 +27,6 @@ author_profile: true
   
 
 ## TEACHING ASSISTANT
----
 
 ### Faculty of Science and Technology, Tokyo University of Science  
 **2025**
