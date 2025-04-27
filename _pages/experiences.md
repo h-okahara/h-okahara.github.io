@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Experiences"
-permalink: /experiences/
+title: "CAREER"
+permalink: /career/
 author_profile: true
 ---
 
 
-## Academic Career
+## ACADEMIC CAREER
 --- 
 
 - 2015/04 – 2018/03 &nbsp; Kagawa Prefectural Marugame High School
@@ -15,7 +15,7 @@ author_profile: true
 - 2025/04 – Present &nbsp;&nbsp; Ph.D. Graduate School of Science and Technology, Tokyo University of Science 
 
 
-## Industry Experience
+## INDUSTRY EXPERIENCE
 ---
 
 - **manabo Inc.**, Tokyo  
@@ -28,7 +28,7 @@ author_profile: true
 
   
 
-## Teaching Assistant
+## TEACHING ASSISTANT
 ---
 
 ### Faculty of Science and Technology, Tokyo University of Science  
