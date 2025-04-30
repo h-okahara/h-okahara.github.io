@@ -21,7 +21,7 @@ author_profile: true
   <small> (Performed data analytics using Python, R, and SQL to drive business insights and strategic decisions) </small>
 
 - 2019/07 - 2023/03 &nbsp; **manabo Inc.** (formerly **SATT AI Lab Inc.**), Tokyo.  
-  *Intern*
+  *Intern*  
   <small> (Executed quality control processes, developed BI tools, and performed data analysis using GAS, Python, and SQL) </small>
 
   
