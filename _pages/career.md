@@ -46,3 +46,10 @@ author_profile: true
 - Mathematics for Information Sciences 1A and its Exercises
 - Analysis1 and its Exercises
 -	Linear Algebra1 and its Exercises
+
+
+
+## OTHER EXPERIENCE
+
+- 2023/04 – Present &nbsp;&nbsp; **Educational Supporter (Mathematics)**, Tokyo University of Science  
+  <small>(Provided academic support in fundamental mathematics for undergraduate students at the Noda campus.)</small>
