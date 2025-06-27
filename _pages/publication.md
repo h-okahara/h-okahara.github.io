@@ -9,7 +9,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## PREPRINT  
 ---
-- Okahara, H. and Tahata, K. (2024), "Asymmetry models and separability for multi-way contingency tables with ordinal categories". arXiv preprint, [arXiv:2405.12157](https://arxiv.org/abs/2405.12157).
+- Okahara, H. and Tahata, K. (2025), "Modeling asymmetry in multi-way contingency tables with ordinal categories: A maximum-entropy approach with *f*-divergence". arXiv preprint, [arXiv:2405.12157](https://arxiv.org/abs/2405.12157).
 
 ## PUBLISHED LITERATURE  
 ---
