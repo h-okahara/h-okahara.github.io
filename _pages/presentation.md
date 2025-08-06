@@ -31,6 +31,9 @@ author_profile: true
 
 ## SEMINAR & WORKSHOP
 
+**2025**
+- **岡原久也**, 中川智之, 菅澤翔之助. 「Multidimensional Modeling for Paired Comparison Data」, [統計サマーセミナー2025](https://sites.google.com/g.ecc.u-tokyo.ac.jp/ysg2025), 香川県仲多度郡琴平町 ことひら温泉 琴参閣, 8月5日, 2025年.
+
 **2024**
 - **岡原久也**. 「多次元分割表モデリング ~f-divergenceに基づく順序準対称モデルと対称構造の構成~」, [第3回データサイエンス医療研究部門シンポジウム](https://www.rs.tus.ac.jp/de-tasaiensuiryou/activity.html), 東京理科大学, 11月, 2024年.
 - **岡原久也**, 田畑浩治. 「多元分割表におけるf-divergenceに基づく順序準対称モデルと対称構造の構成」, [統計サマーセミナー2024](https://sites.google.com/view/ysg2024), 新潟県南魚沼郡湯沢町 湯沢ニューオータニ, 7月30日, 2024年.
