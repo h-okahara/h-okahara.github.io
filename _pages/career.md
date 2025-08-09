@@ -30,6 +30,8 @@ author_profile: true
 
 ### Faculty of Science and Technology, Tokyo University of Science  
 **2025**
+- Mathematics for Information Sciences 2A and its Exercises
+- Linear Algebra2 and its Exercises
 - Probability Theory 1 and its Exercises
 - Information Theory 1 and its Exercises
 
