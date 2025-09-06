@@ -29,9 +29,10 @@ author_profile: true
 - **岡原久也**, 田畑耕治. 「順序カテゴリをもつ多元分割表における非対称モデルについて」, [2023年度 応用統計学会年会](https://www.applstat.gr.jp/event/annual_meeting/am-2023/), 北海道大学, 4月22日, 2023年.
 
 
-## SEMINAR & WORKSHOP
+## SYMPOSIUM & WORKSHOP
 
 **2025**
+- **岡原久也**. 「循環構造をもつ一対比較データに対するランキングモデルの検討」, 科研費研究集会「ベイズ統計サマーシンポジウム2025」, 9月, 2025年.
 - **岡原久也**, 中川智之, 菅澤翔之助. 「Multidimensional Modeling for Paired Comparison Data」, [統計サマーセミナー2025](https://sites.google.com/g.ecc.u-tokyo.ac.jp/ysg2025), 香川県仲多度郡琴平町 ことひら温泉 琴参閣, 8月5日, 2025年.
 
 **2024**
