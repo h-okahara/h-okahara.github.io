@@ -8,6 +8,7 @@ author_profile: true
 ## INTERNATIONAL CONFERENCE
 
 **2025**
+- **Okahara, H.**, Nakagawa, T. and Sugasawa, S.. "Modeling pairwise comparison data with cyclic and acyclic structures under a Bayesian framework", [CFE-CMStatistics 2025 Hybrid Conference](https://www.cmstatistics.org//CFECMStatistics2025/index.php), London, UK, (Scheduled for December 13, 2025)  
 - **Okahara, H.** "f-divergence based modeling of asymmetric structures in multi-way ordinal contingency tables", [Further Developments of Information Geometry](https://sites.google.com/view/fdig2025/), Tokyo, Japan, March 20th, 2025.
 
 **2024**
