@@ -23,10 +23,8 @@ I'm a Ph.D. student in the [Tahata Lab](https://tahata-lab.is.noda.tus.ac.jp/) a
 
 ## RECENT PAPER
 
-**PREPRINT**
-- Okahara, H. and Tahata, K. (2025), "Modeling asymmetry in multi-way contingency tables with ordinal categories: A maximum-entropy approach with *f*-divergence". arXiv preprint, [arXiv:2405.12157](https://arxiv.org/abs/2405.12157).
-
 **PUBLISHED LITERATURE** 
+- - Okahara, H. and Tahata, K. (2025), "Modeling asymmetry in multi-way contingency tables with ordinal categories via *f*-divergence". *Statistical Papers*. <span style="color: red;">[open access]</span> ([publication](https://link.springer.com/article/10.1007/s42081-024-00289-4), [arXiv](https://arxiv.org/abs/2405.04193)).  
 - Okahara, H. and Tahata, K. (2025), "A generalized ordinal quasi-symmetry model and its separability for analyzing multi-way tables". *Japanese Journal of Statistics and Data Science*. <span style="color: red;">[open access]</span> ([publication](https://link.springer.com/article/10.1007/s42081-024-00289-4), [arXiv](https://arxiv.org/abs/2405.04193))
 
 
