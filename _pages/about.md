@@ -18,7 +18,7 @@ I'm a Ph.D. student in the [Tahata Lab](https://tahata-lab.is.noda.tus.ac.jp/) a
 - Latent Variable Modeling
 - Categorical Data Analysis
 - Ranked Data Analysis
-- Bayesian statistics  
+- Bayesian Statistics  
 
 
 ## RECENT PAPER
