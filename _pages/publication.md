@@ -9,6 +9,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## PREPRINT  
 ---
+- Okahara, H., Nakagawa, T., and Sugasawa, S. (2026). "The Bayesian Intransitive Bradley-Terry Model via Combinatorial Hodge Theory". ([arXiv](https://arxiv.org/abs/2601.07158)).  
 
 ## PUBLISHED LITERATURE  
 ---
