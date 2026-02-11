@@ -23,25 +23,28 @@ author_profile: true
   
 ## NATIONAL CONFERENCE 
 
+**2026**
+- **岡原久也**, 中川智之, 菅澤翔之助. 「非推移構造をもつ一対比較データのためのBayesian Bradley-Terryモデル」, [第20回 日本統計学会春季集会](https://jss2026spring.ywstat.jp/), 同志社大学, (発表予定; 2026年3月7日).
+
 **2024**
-- **岡原久也**, 田畑耕治. 「多元分割表における一般化順序準対称モデルと対称性の必要十分条件」, [日本数学会2024年度秋季総合分科会](https://www.mathsoc.jp/activity/meeting/osaka24sept/index.html), 大阪大学, 9月6日, 2024年.
-- **岡原久也**, 藤澤健吾, 田畑耕治. 「順序付き多元分割表における非対称モデルと分離可能性」, [2024年度 応用統計学会年会](https://www.applstat.gr.jp/event/annual_meeting/am-2024/), 九州大学, 5月9日, 2024年.
-- **岡原久也**, 藤澤健吾, 田畑耕治. 「多元分割表における対称性に関する分離可能モデル」, [日本数学会2024年度年会](https://www.mathsoc.jp/activity/meeting/omu24mar/), 大阪公立大学, 3月19日, 2024年.
+- **岡原久也**, 田畑耕治. 「多元分割表における一般化順序準対称モデルと対称性の必要十分条件」, [日本数学会2024年度秋季総合分科会](https://www.mathsoc.jp/activity/meeting/osaka24sept/index.html), 大阪大学, 2024年9月6日.
+- **岡原久也**, 藤澤健吾, 田畑耕治. 「順序付き多元分割表における非対称モデルと分離可能性」, [2024年度 応用統計学会年会](https://www.applstat.gr.jp/event/annual_meeting/am-2024/), 九州大学, 2024年5月9日.
+- **岡原久也**, 藤澤健吾, 田畑耕治. 「多元分割表における対称性に関する分離可能モデル」, [日本数学会2024年度年会](https://www.mathsoc.jp/activity/meeting/omu24mar/), 大阪公立大学, 2024年3月19日.
 
 **2023**			
-- **岡原久也**, 藤澤健吾, 田畑浩治. 「順序カテゴリをもつ多元分割表におけるf-divergenceに基づいた非対称モデルについて」, [日本数学会2023年度秋季総合分科会](https://www.mathsoc.jp/activity/meeting/tohoku23sept/), 東北大学, 9月23日, 2023年.
-- **岡原久也**, 田畑耕治. 「順序カテゴリをもつ多元分割表における非対称モデルについて」, [2023年度 応用統計学会年会](https://www.applstat.gr.jp/event/annual_meeting/am-2023/), 北海道大学, 4月22日, 2023年.
+- **岡原久也**, 藤澤健吾, 田畑浩治. 「順序カテゴリをもつ多元分割表におけるf-divergenceに基づいた非対称モデルについて」, [日本数学会2023年度秋季総合分科会](https://www.mathsoc.jp/activity/meeting/tohoku23sept/), 東北大学, 2023年9月23日.
+- **岡原久也**, 田畑耕治. 「順序カテゴリをもつ多元分割表における非対称モデルについて」, [2023年度 応用統計学会年会](https://www.applstat.gr.jp/event/annual_meeting/am-2023/), 北海道大学, 2023年4月22日.
 
 
 ## SYMPOSIUM & WORKSHOP
 
 **2025**
-- **岡原久也**. 「循環構造をもつ一対比較データに対するランキングモデルの検討」, 科研費研究集会「ベイズ統計サマーシンポジウム2025」,北海道大学, 9月4日, 2025年.
-- **岡原久也**, 中川智之, 菅澤翔之助. 「Multidimensional Modeling for Paired Comparison Data」, [統計サマーセミナー2025](https://sites.google.com/g.ecc.u-tokyo.ac.jp/ysg2025), 香川県仲多度郡琴平町 ことひら温泉 琴参閣, 8月5日, 2025年.
+- **岡原久也**. 「循環構造をもつ一対比較データに対するランキングモデルの検討」, 科研費研究集会「ベイズ統計サマーシンポジウム2025」,北海道大学, 2025年9月4日.
+- **岡原久也**, 中川智之, 菅澤翔之助. 「Multidimensional Modeling for Paired Comparison Data」, [統計サマーセミナー2025](https://sites.google.com/g.ecc.u-tokyo.ac.jp/ysg2025), 香川県仲多度郡琴平町 ことひら温泉 琴参閣, 2025年8月5日.
 
 **2024**
-- **岡原久也**. 「多次元分割表モデリング ~f-divergenceに基づく順序準対称モデルと対称構造の構成~」, [第3回データサイエンス医療研究部門シンポジウム](https://www.rs.tus.ac.jp/de-tasaiensuiryou/activity.html), 東京理科大学, 11月, 2024年.
-- **岡原久也**, 田畑浩治. 「多元分割表におけるf-divergenceに基づく順序準対称モデルと対称構造の構成」, [統計サマーセミナー2024](https://sites.google.com/view/ysg2024), 新潟県南魚沼郡湯沢町 湯沢ニューオータニ, 7月30日, 2024年.
+- **岡原久也**. 「多次元分割表モデリング ~f-divergenceに基づく順序準対称モデルと対称構造の構成~」, [第3回データサイエンス医療研究部門シンポジウム](https://www.rs.tus.ac.jp/de-tasaiensuiryou/activity.html), 東京理科大学, 2024年11月.
+- **岡原久也**, 田畑浩治. 「多元分割表におけるf-divergenceに基づく順序準対称モデルと対称構造の構成」, [統計サマーセミナー2024](https://sites.google.com/view/ysg2024), 新潟県南魚沼郡湯沢町 湯沢ニューオータニ, 2024年7月30日.
 
 **2023**
-- **岡原久也**, 藤澤健吾, 田畑浩治. 「順序付き多元分割表におけるf-divergenceに基づいた非対称モデルについて」, [統計サマーセミナー2023](https://sites.google.com/view/ysg2023/), 福井県あわら市 あわら温泉 清風荘, 8月9日, 2023年.
+- **岡原久也**, 藤澤健吾, 田畑浩治. 「順序付き多元分割表におけるf-divergenceに基づいた非対称モデルについて」, [統計サマーセミナー2023](https://sites.google.com/view/ysg2023/), 福井県あわら市 あわら温泉 清風荘, 2023年8月9日.
