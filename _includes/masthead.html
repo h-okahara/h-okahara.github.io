@@ -6,17 +6,30 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg persist"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg persist">
+            <a href="{{ base_path }}/" data-i18n="site_title">{{ site.title }}</a>
+          </li>
+
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
             {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item">
+              <a href="{{ domain }}{{ link.url }}" data-i18n="nav.{{ link.title | slugify }}">{{ link.title }}</a>
+            </li>
           {% endfor %}
+
+          <li id="lang-toggle" class="masthead__menu-item persist">
+            <a style="cursor: pointer;">
+              <i id="lang-icon" class="fa-solid fa-language" aria-hidden="true"></i> 
+              <span id="lang-text" style="font-weight: bold; font-size: 0.8em; margin-left: 2px;">EN</span>
+            </a>
+          </li>
+
           <li id="theme-toggle" class="masthead__menu-item persist tail">
-            <a><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
+            <a><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" data-i18n="theme_toggle_label" title="toggle theme"></i></a>
           </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
