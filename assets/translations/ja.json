@@ -3,6 +3,9 @@
   "author": { 
     "bio": "東京理科大学 博士後期課程" 
   },
+  "theme_toggle_label": "テーマ切替",
+  "lang_toggle_label": "言語切替",
+  
   "nav": {
     "home": "ホーム",
     "about": "プロフィール",
@@ -10,11 +13,13 @@
     "publication": "出版論文",
     "presentation": "研究発表"
   },
+  
   "page_title": {
     "career": "経歴",
     "publication": "出版論文",
     "presentation": "研究発表"
   },
+  
   "home": {
     "header_about": "自己紹介",
     "header_interest": "研究分野",
@@ -122,7 +127,15 @@
     "date_aug_09_2023": "2023年8月9日",
     "date_apr_22_2023": "2023年4月22日"
   },
-  
-  "theme_toggle_label": "テーマ切替",
-  "lang_toggle_label": "言語切替"
+  "publication": {
+    "header_preprint": "プレプリント",
+    "header_published": "出版論文",
+    
+    "intro_1": "論文リストは",
+    "intro_link": "Google Scholar プロフィール",
+    "intro_2": " でもご覧いただけます。",
+    
+    "open_access": "オープンアクセス",
+    "link_paper": "論文"
+  }
 }
