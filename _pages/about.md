@@ -44,5 +44,6 @@ I'm a Ph.D. student in the [Tahata Lab](https://tahata-lab.is.noda.tus.ac.jp/) a
 
 ## MEMBERSHIP
 
+- 2026/02 - Present &nbsp; The Japan Statistical Society
 - 2023/10 – Present &nbsp; Mathematical Society of Japan
 - 2023/02 – Present &nbsp; Japan Society of Applied Statistics
