@@ -85,7 +85,43 @@
     "edu_supporter": "学習相談室 サポーター (数学)",
     "edu_supporter_desc": "野田キャンパスにて学部生向けの数学科目の学習支援に従事"
   },
-  
+  "presentation": {
+    "header_intl": "国際会議",
+    "header_domestic": "国内学会・研究集会",
+    "header_symposium": "シンポジウム・ワークショップ",
+
+    "loc_london": "イギリス, ロンドン",
+    "loc_nagoya": "愛知, 名古屋",  
+    "loc_tokyo": "東京",
+    "loc_chiba": "千葉",
+    "loc_doshisha": "同志社大学",
+    "loc_osaka_u": "大阪大学",
+    "loc_kyushu_u": "九州大学",
+    "loc_osaka_metro_u": "大阪公立大学",
+    "loc_tohoku_u": "東北大学",
+    "loc_hokkaido_u": "北海道大学",
+    "loc_tus": "東京理科大学",
+    "loc_kagawa_kotohira": "香川県仲多度郡琴平町 ことひら温泉 琴参閣",
+    "loc_niigata_yuzawa": "新潟県南魚沼郡湯沢町 湯沢ニューオータニ",
+    "loc_fukui_awara": "福井県あわら市 あわら温泉 清風荘",
+
+    "note_isba2026": "発表予定; 2026年6月28日–7月3日",
+    "note_jss2026": "発表予定; 2026年3月7日",
+    "date_dec_13_2025": "2025年12月13日",
+    "date_sep_04_2025": "2025年9月4日",
+    "date_aug_05_2025": "2025年8月5日",
+    "date_mar_20_2025": "2025年3月20日",
+    "date_dec_16_2024": "2024年12月16日",
+    "date_nov_2024": "2024年11月",
+    "date_sep_06_2024": "2024年9月6日",
+    "date_jul_30_2024": "2024年7月30日",
+    "date_may_09_2024": "2024年5月9日",
+    "date_mar_19_2024": "2024年3月19日",
+    "date_oct_12_2023": "2023年10月12日",
+    "date_sep_23_2023": "2023年9月23日",    
+    "date_aug_09_2023": "2023年8月9日",
+    "date_apr_22_2023": "2023年4月22日"
+  },
   
   "theme_toggle_label": "テーマ切替",
   "lang_toggle_label": "言語切替"
