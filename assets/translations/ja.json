@@ -10,6 +10,12 @@
     "publication": "論文・出版",
     "presentation": "発表"    
   },
+
+  "career": {
+    "phd": "東京理科大学大学院 創域理工学研究科 情報計算科学専攻 博士後期課程",
+    "ms": "東京理科大学大学院 創域理工学研究科 情報計算科学専攻 修士課程 修了"
+  },
+  
   "theme_toggle_label": "テーマ切替",
   "lang_toggle_label": "言語切替"
 }
