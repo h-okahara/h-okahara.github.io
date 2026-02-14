@@ -14,7 +14,41 @@
     "career": "経歴",
     "publication": "出版論文",
     "presentation": "研究発表"
-  }
+  },
+  "home": {
+    "header_about": "自己紹介",
+    "header_interest": "研究分野",
+    "header_paper": "最近の論文",
+    "header_grant": "競争的資金",
+    "header_education": "学歴",
+    "header_membership": "所属学会",
+    
+    "role": "博士後期課程",
+    "affiliation_pre": " (所属: ",
+    "lab": "田畑研究室",
+    "affiliation_mid": ", ",
+    "tus": "東京理科大学",
+    
+    "interest_1": "潜在変数モデル",
+    "interest_2": "カテゴリカルデータ解析",
+    "interest_3": "ランキングデータ解析",
+    "interest_4": "ベイズ統計学",
+    
+    "preprint": "プレプリント",
+    "published": "出版論文",
+    "open_access": "オープンアクセス",
+    
+    "grant_jst": "次世代研究者挑戦的研究プログラム (SPRING)",
+    "grant_jst_desc": "科学技術振興機構 (JST)",
+    
+    "degree_ms": "修士 (理学), 東京理科大学 (2025)",
+    "degree_bs": "学士 (理学), 東京理科大学 (2023)",
+    
+    "member_jss": "日本統計学会",
+    "member_msj": "日本数学会",
+    "member_jsas": "応用統計学会",
+    "present": "現在"
+  },
   "career": {
     "header_academic": "学歴",
     "header_industry": "職歴",
@@ -51,6 +85,7 @@
     "edu_supporter": "学習相談室 サポーター (数学)",
     "edu_supporter_desc": "野田キャンパスにて学部生向けの数学科目の学習支援に従事"
   },
+  
   
   "theme_toggle_label": "テーマ切替",
   "lang_toggle_label": "言語切替"
