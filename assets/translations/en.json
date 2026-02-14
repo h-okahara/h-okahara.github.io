@@ -1,5 +1,8 @@
 {
   "site_title": "HISAYA OKAHARA",
+  "author": { 
+    "bio": "Ph.D student at Tokyo University of Science" 
+  },
   "nav": {
     "home": "Home",
     "about": "About",
