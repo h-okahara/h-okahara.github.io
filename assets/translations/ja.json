@@ -1,0 +1,12 @@
+{
+  "site_title": "岡原 久也",
+  "nav": {
+    "home": "ホーム",
+    "about": "プロフィール",
+    "publication": "論文・出版",
+    "presentation": "発表",
+    "career": "経歴"
+  },
+  "theme_toggle_label": "テーマ切替",
+  "lang_toggle_label": "言語切替"
+}
