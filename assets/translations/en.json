@@ -1,0 +1,12 @@
+{
+  "site_title": "HISAYA OKAHARA",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "publication": "Publications",
+    "presentation": "Presentations",
+    "career": "Career"
+  },
+  "theme_toggle_label": "Toggle Theme",
+  "lang_toggle_label": "Switch Language"
+}
