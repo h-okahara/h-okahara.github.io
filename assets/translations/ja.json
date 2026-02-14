@@ -26,8 +26,8 @@
     "bs": "学士(理学) 東京理科大学 理工学部 情報科学科 卒業",
     "hs": "香川県立丸亀高等学校 普通科 卒業",
 
-    "manabo": "株式会社マナボ",
-    "manabo_old": "株式会社マナボ (旧 SATT AIラボ株式会社)",
+    "manabo": "株式会社manabo",
+    "manabo_old": "株式会社manabo (旧 SATT AIラボ株式会社)",
     "manabo_role1": "フリーランス データサイエンティスト",
     "manabo_desc1": "Python, R, SQLを用いたデータ分析による、ビジネスインサイトおよび戦略的意思決定の支援",
     "manabo_role2": "インターン",
@@ -44,8 +44,8 @@
     "course_analysis_1": "解析学1及び演習",
     "course_linear_alg_1": "線形代数1及び演習",
 
-    "edu_supporter": "学習相談室 サポーター(数学)",
-    "edu_supporter_desc": "野田キャンパスにて学部生向けの数学科目 (線形代数・微分積分など）の学習支援に従事"
+    "edu_supporter": "学習相談室 サポーター (数学)",
+    "edu_supporter_desc": "野田キャンパスにて学部生向けの数学科目の学習支援に従事"
   },
   
   "theme_toggle_label": "テーマ切替",
