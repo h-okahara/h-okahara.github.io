@@ -29,8 +29,7 @@ redirect_from:
 
 
 ## <span data-i18n="home.header_grant">GRANT & FELLOWSHIP</span>  
-- 2025/04 – <span data-i18n="home.present">Present</span> &nbsp; <span data-i18n="home.grant_jst">JST SPRING, Japan Science and Technology Agency (JST)</span>  
-  <small> (<span data-i18n="home.grant_jst_desc">SPRING: Support for Pioneering Research Initiated by the Next Generation</span>) </small>
+- 2025/04 – <span data-i18n="home.present">Present</span> &nbsp; <span data-i18n="home.grant_jst">JST SPRING, Japan Science and Technology Agency (JST)</span>   
 
 ## <span data-i18n="home.header_education">EDUCATION</span>  
 - <span data-i18n="home.degree_ms">M.S. in Science, Tokyo University of Science (2025)</span>  
