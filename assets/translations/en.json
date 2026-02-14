@@ -6,9 +6,9 @@
   "nav": {
     "home": "Home",
     "about": "About",
+    "career": "Career",
     "publication": "Publications",
-    "presentation": "Presentations",
-    "career": "Career"
+    "presentation": "Presentations"    
   },
   "theme_toggle_label": "Toggle Theme",
   "lang_toggle_label": "Switch Language"
