@@ -9,7 +9,7 @@ redirect_from:
 
 
 ## <span data-i18n="home.header_about">ABOUT ME</span>  
-<span data-i18n="home.role">I'm a Ph.D. student</span><span data-i18n="home.affiliation_pre"> in the </span>[<span data-i18n="home.lab">Tahata Lab</span>](https://tahata-lab.is.noda.tus.ac.jp/)<span data-i18n="home.affiliation_mid"> at the </span>[<span data-i18n="home.tus">Tokyo University of Science</span>](https://www.tus.ac.jp/en/grad/riko/) <span data-i18n="affiliation_post">.</span>
+<span data-i18n="home.role">I'm a Ph.D. student</span> <span data-i18n="home.affiliation_pre"> in the </span>[<span data-i18n="home.lab">Tahata Lab</span>](https://tahata-lab.is.noda.tus.ac.jp/) <span data-i18n="home.affiliation_mid"> at the </span>[<span data-i18n="home.tus">Tokyo University of Science</span>](https://www.tus.ac.jp/en/grad/riko/) <span data-i18n="home.affiliation_post">.</span>
 
 
 ## <span data-i18n="home.header_interest">RESEARCH INTEREST</span>  
