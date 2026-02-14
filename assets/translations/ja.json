@@ -10,7 +10,11 @@
     "publication": "出版論文",
     "presentation": "研究発表"
   },
-
+  "page_title": {
+    "career": "経歴",
+    "publication": "出版論文",
+    "presentation": "研究発表"
+  }
   "career": {
     "header_academic": "学歴",
     "header_industry": "職歴",
