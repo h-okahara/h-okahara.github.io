@@ -7,13 +7,45 @@
     "home": "ホーム",
     "about": "プロフィール",
     "career": "経歴",
-    "publication": "論文・出版",
-    "presentation": "発表"    
+    "publication": "出版論文",
+    "presentation": "研究発表"
   },
 
   "career": {
-    "phd": "東京理科大学大学院 創域理工学研究科 情報計算科学専攻 博士後期課程",
-    "ms": "東京理科大学大学院 創域理工学研究科 情報計算科学専攻 修士課程 修了"
+    "header_academic": "学歴",
+    "header_industry": "職歴",
+    "header_ta": "ティーチング・アシスタント",
+    "header_other": "その他の活動",
+    "present": "現在",
+    "tokyo": "東京",
+    "tus": "東京理科大学",
+    "tus_dept": "東京理科大学 創域理工学部",
+
+    "phd": "博士(理学) 東京理科大学大学院 創域理工学研究科 情報計算科学専攻 博士後期課程",
+    "ms": "修士(理学) 東京理科大学大学院 創域理工学研究科 情報計算科学専攻 修士課程 修了",
+    "bs": "学士(理学) 東京理科大学 理工学部 情報科学科 卒業",
+    "hs": "香川県立丸亀高等学校 普通科 卒業",
+
+    "manabo": "株式会社マナボ",
+    "manabo_old": "株式会社マナボ (旧 SATT AIラボ株式会社)",
+    "manabo_role1": "フリーランス データサイエンティスト",
+    "manabo_desc1": "Python, R, SQLを用いたデータ分析による、ビジネスインサイトおよび戦略的意思決定の支援",
+    "manabo_role2": "インターン",
+    "manabo_desc2": "品質管理プロセスの実行、BIツールの開発、およびGAS, Python, SQLを用いたデータ分析",
+
+    "course_math_info_2a": "情報数学2A及び演習",
+    "course_linear_alg_2": "線形代数2及び演習",
+    "course_prob_1": "確率論1及び演習",
+    "course_info_theory_1": "情報理論1及び演習",
+    "course_stats_1": "統計学1及び演習",
+    "course_prob_2": "確率論2及び演習",
+    "course_math_info_1a": "情報数学1A及び演習",
+    "course_math_info_1b": "情報数学1B及び演習",
+    "course_analysis_1": "解析学1及び演習",
+    "course_linear_alg_1": "線形代数1及び演習",
+
+    "edu_supporter": "学習相談室 チューター(数学)",
+    "edu_supporter_desc": "野田キャンパスにて学部生向けの数学科目 (線形代数・微分積分など）の学習支援に従事"
   },
   
   "theme_toggle_label": "テーマ切替",
