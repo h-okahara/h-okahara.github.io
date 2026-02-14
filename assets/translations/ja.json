@@ -6,9 +6,9 @@
   "nav": {
     "home": "ホーム",
     "about": "プロフィール",
+    "career": "経歴",
     "publication": "論文・出版",
-    "presentation": "発表",
-    "career": "経歴"
+    "presentation": "発表"    
   },
   "theme_toggle_label": "テーマ切替",
   "lang_toggle_label": "言語切替"
