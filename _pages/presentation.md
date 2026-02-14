@@ -8,7 +8,7 @@ author_profile: true
 ## <span data-i18n="presentation.header_intl">INTERNATIONAL CONFERENCE</span>  
 **2026**
 - **Okahara, H.**, Nakagawa, T. and Sugasawa, S. "Bayesian Intransitive Modeling in Paired Comparisons", [The 2026 ISBA World Meeting](https://isba2026.github.io/),
-  <span data-i18n="presentation.loc_nagoya">Nagoya, Japan</span>, (<span data-i18n="presentation.note_isba2026">accepted for poster presentation; Scheduled for June 28 – July 3, 2026</span>)
+  <span data-i18n="presentation.loc_nagoya">Nagoya, Japan,</span> (<span data-i18n="presentation.note_isba2026">accepted for poster presentation; Scheduled for June 28 – July 3, 2026</span>)
 
 **2025**
 - **Okahara, H.**, Nakagawa, T. and Sugasawa, S. "Modeling pairwise comparison data with cyclic and acyclic structures under a Bayesian framework", [CFE-CMStatistics 2025 Hybrid Conference](https://www.cmstatistics.org//CFECMStatistics2025/index.php), <span data-i18n="presentation.loc_london">London, UK</span>, <span data-i18n="presentation.date_dec_13_2025">December 13th, 2025</span>.
@@ -23,7 +23,7 @@ author_profile: true
   
 ## <span data-i18n="presentation.header_domestic">NATIONAL CONFERENCE</span>  
 **2026**
-- **岡原久也**, 中川智之, 菅澤翔之助. 「非推移構造をもつ一対比較データのためのBayesian Bradley-Terryモデル」, [第20回 日本統計学会春季集会](https://jss2026spring.ywstat.jp/), <span data-i18n="presentation.loc_doshisha">Doshisha University</span>, (<span data-i18n="presentation.note_jss2026">Scheduled for presentation; March 7th, 2026</span>).
+- **岡原久也**, 中川智之, 菅澤翔之助. 「非推移構造をもつ一対比較データのためのBayesian Bradley-Terryモデル」, [第20回 日本統計学会春季集会](https://jss2026spring.ywstat.jp/), <span data-i18n="presentation.loc_doshisha">Doshisha University,</span> (<span data-i18n="presentation.note_jss2026">Scheduled for presentation; March 7th, 2026</span>).
 
 **2024**
 - **岡原久也**, 田畑耕治. 「多元分割表における一般化順序準対称モデルと対称性の必要十分条件」, [日本数学会2024年度秋季総合分科会](https://www.mathsoc.jp/activity/meeting/osaka24sept/index.html), <span data-i18n="presentation.loc_osaka_u">Osaka University</span>, <span data-i18n="presentation.date_sep_06_2024">September 6th, 2024</span>.
