@@ -10,6 +10,12 @@
     "publication": "Publications",
     "presentation": "Presentations"    
   },
+
+  "career": {
+    "phd": "Ph.D. student, Tokyo University of Science",
+    "ms": "M.S. in Science, Tokyo University of Science"
+  },  
+
   "theme_toggle_label": "Toggle Theme",
   "lang_toggle_label": "Switch Language"
 }
