@@ -32,6 +32,7 @@
     "lab": "田畑研究室",
     "affiliation_mid": ", ",
     "tus": "東京理科大学",
+    "affiliation_post": ")",
     
     "interest_1": "潜在変数モデル",
     "interest_2": "カテゴリカルデータ解析",
