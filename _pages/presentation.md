@@ -8,7 +8,7 @@ author_profile: true
 ## <span data-i18n="presentation.header_intl">INTERNATIONAL CONFERENCE</span>  
 **2026**
 - **Okahara, H.**, Nakagawa, T. and Sugasawa, S. "Bayesian Intransitive Modeling in Paired Comparisons", [The 2026 ISBA World Meeting](https://isba2026.github.io/),
-  <span data-i18n="presentation.loc_nagoya">Nagoya, Japan,</span> (<span data-i18n="presentation.note_isba2026">accepted for poster presentation; Scheduled for June 28 – July 3, 2026</span>)
+  <span data-i18n="presentation.loc_aichi">Aichi, Japan,</span> (<span data-i18n="presentation.note_isba2026">accepted for poster presentation; Scheduled for June 28 – July 3, 2026</span>)
 
 **2025**
 - **Okahara, H.**, Nakagawa, T. and Sugasawa, S. "Modeling pairwise comparison data with cyclic and acyclic structures under a Bayesian framework", [CFE-CMStatistics 2025 Hybrid Conference](https://www.cmstatistics.org//CFECMStatistics2025/index.php), <span data-i18n="presentation.loc_london">London, UK</span>, <span data-i18n="presentation.date_dec_13_2025">December 13th, 2025</span>.
