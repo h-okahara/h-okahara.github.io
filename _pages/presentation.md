@@ -21,7 +21,7 @@ author_profile: true
 - **Okahara, H.** and Tahata, K. "On asymmetry models based on f-divergence for multi-way tables", [The Hybrid QBIC Workshop](https://www.rs.noda.tus.ac.jp/qbic/VQBICworkshop2023new.html), <span data-i18n="presentation.loc_chiba">Chiba, Japan</span>, <span data-i18n="presentation.date_oct_12_2023">October 12th, 2023</span>.
 
   
-## <span data-i18n="presentation.header_domestic">NATIONAL CONFERENCE</span>  
+## <span data-i18n="presentation.header_domestic">DOMESTIC CONFERENCE (in Japanese)</span>  
 **2026**
 - **岡原久也**, 中川智之, 菅澤翔之助. 「非推移構造をもつ一対比較データのためのBayesian Bradley-Terryモデル」, [第20回 日本統計学会春季集会](https://jss2026spring.ywstat.jp/), <span data-i18n="presentation.loc_doshisha">Doshisha University,</span> (<span data-i18n="presentation.note_jss2026">Scheduled for presentation; March 7th, 2026</span>).
 
