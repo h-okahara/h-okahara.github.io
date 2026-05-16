@@ -75,6 +75,8 @@
     "manabo_role2": "インターン",
     "manabo_desc2": "品質管理プロセスの実行、BIツールの開発、およびGAS, Python, SQLを用いたデータ分析",
 
+    "course_math_info": "情報数学及び演習",
+    
     "course_prob_2": "確率論2及び演習",
     "course_prob_1": "確率論1及び演習",
     "course_info_theory_1": "情報理論1及び演習",
