@@ -23,6 +23,7 @@ author_profile: true
   
 ## <span data-i18n="presentation.header_domestic">DOMESTIC CONFERENCE (in Japanese)</span>  
 **2026**
+- **岡原久也**, 中川智之, 菅澤翔之助. 「非推移性を考慮した一対比較データのベイズ推論」, [2026年度 統計関連学会連合大会]([https://jss2026spring.ywstat.jp/](https://pub.confit.atlas.jp/ja/event/jfssa2026)), <span data-i18n="presentation.loc_yokoichi">Yokohama City University,</span> (<span data-i18n="presentation.date_rengo2026"> Scheduled for September 6th~10th, 2026</span>).
 - **岡原久也**, 中川智之, 菅澤翔之助. 「非推移構造をもつ一対比較データのためのBayesian Bradley-Terryモデル」, [第20回 日本統計学会春季集会](https://jss2026spring.ywstat.jp/), <span data-i18n="presentation.loc_doshisha">Doshisha University,</span> (<span data-i18n="presentation.date_mar_07_2026">March 7th, 2026</span>).
 
 **2024**
