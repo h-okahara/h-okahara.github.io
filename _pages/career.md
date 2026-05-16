@@ -25,7 +25,16 @@ author_profile: true
 
 ## <span data-i18n="career.header_ta">TEACHING ASSISTANT</span>
 
-### <span data-i18n="career.tus_dept">Faculty of Science and Technology, Tokyo University of Science</span>
+### <span data-i18n="career.tus_IST">Faculty of Information Science and Technology, Tokyo University of Science</span>
+
+**2026**
+- <span data-i18n="career.course_analysis_2">Analysis 2 and its Exercises</span>
+- <span data-i18n="career.course_linear_alg_2">Linear Algebra 2 and its Exercises</span>
+- <span data-i18n="career.course_math_info">Mathematics for Information Sciences and its Exercises</span>
+- <span data-i18n="career.course_linear_alg_1">Linear Algebra 1 and its Exercises</span>
+- <span data-i18n="career.course_analysis_1">Analysis 1 and its Exercises</span>
+
+### <span data-i18n="career.tus_IS">Faculty of Science and Technology, Tokyo University of Science</span>
 
 **2025**
 - <span data-i18n="career.course_math_info_2a">Mathematics for Information Sciences 2A and its Exercises</span>
