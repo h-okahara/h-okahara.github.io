@@ -28,6 +28,12 @@ redirect_from:
 - Okahara, H. and Tahata, K. (2025), "A generalized ordinal quasi-symmetry model and its separability for analyzing multi-way tables". *Japanese Journal of Statistics and Data Science*. <span style="color: red;">[<span data-i18n="home.open_access">open access</span>]</span> ([publication](https://link.springer.com/article/10.1007/s42081-024-00289-4), [arXiv:2405.04193](https://arxiv.org/abs/2405.04193))
 
 
+
+## <span data-i18n="home.header_presentation">UPCOMING PRESENTATION</span>  
+- **岡原久也**, 中川智之, 菅澤翔之助. 「非推移性を考慮した一対比較データのベイズ推論」, [2026年度 統計関連学会連合大会]([https://jss2026spring.ywstat.jp/](https://pub.confit.atlas.jp/ja/event/jfssa2026)), <span data-i18n="presentation.loc_yokoichi">Yokohama City University,</span> (<span data-i18n="presentation.date_rengo2026">Scheduled for September 6th~10th, 2026</span>).
+
+
+
 ## <span data-i18n="home.header_grant">GRANT & FELLOWSHIP</span>  
 - 2025/04 – <span data-i18n="home.present">Present</span> &nbsp; <span data-i18n="home.grant_jst">JST SPRING, Japan Science and Technology Agency (JST)</span>   
 
