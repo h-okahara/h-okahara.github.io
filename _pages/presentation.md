@@ -9,7 +9,7 @@ author_profile: true
 **2026**
 - **Okahara, H.**, Nakagawa, T. and Sugasawa, S. "Bayesian Intransitive Modeling in Paired Comparisons", [The 2026 ISBA World Meeting](https://isba2026.github.io/),
   <span data-i18n="presentation.loc_aichi">Aichi, Japan</span>, <span data-i18n="presentation.date_june_30_2026">June 30th, 2026</span>.
-- **Okahara, H.** "Bayesian Inference for Intransitive Pairwise Comparisons via Hodge Decomposition", [BAYSM 2026](https://baysm2026.github.io/),
+- **Okahara, H.**, Nakagawa, T. and Sugasawa, S. "Bayesian Inference for Intransitive Pairwise Comparisons via Hodge Decomposition", [BAYSM 2026](https://baysm2026.github.io/),
   <span data-i18n="presentation.loc_chiba">Chiba, Japan</span>, <span data-i18n="presentation.date_june_27_2026">June 27th, 2026</span>.
 
 **2023~2025**
