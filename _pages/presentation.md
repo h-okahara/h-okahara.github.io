@@ -33,6 +33,9 @@ author_profile: true
 
 
 ## <span data-i18n="presentation.header_symposium">SYMPOSIUM & WORKSHOP</span>  
+**2026**
+- **岡原久也**. 「非推移性を考慮した一対比較データのベイズ推論」, [統計サマーセミナー2026](https://okuno.net/events/ysg2026/), <span data-i18n="presentation.loc_aichi_meizanso">Meizanso, Aichi</span>, (<span data-i18n="presentation.date_ss2026">Scheduled for August 5th~7th, 2026</span>).
+
 **2023~2025**
 - **岡原久也**. 「循環構造をもつ一対比較データに対するランキングモデルの検討」, 科研費研究集会「ベイズ統計サマーシンポジウム2025」, <span data-i18n="presentation.loc_hokkaido_u">Hokkaido University</span>, <span data-i18n="presentation.date_sep_04_2025">September 4th, 2025</span>.
 - **岡原久也**, 中川智之, 菅澤翔之助. 「Multidimensional Modeling for Paired Comparison Data」, [統計サマーセミナー2025](https://sites.google.com/g.ecc.u-tokyo.ac.jp/ysg2025), <span data-i18n="presentation.loc_kagawa_kotohira">Kotohira Kadan, Kagawa</span>, <span data-i18n="presentation.date_aug_05_2025">August 5th, 2025</span>.
