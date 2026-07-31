@@ -32,6 +32,7 @@ redirect_from:
 - **岡原久也**. 「非推移性を考慮した一対比較データのベイズ推論」, [統計サマーセミナー2026](https://okuno.net/events/ysg2026/), <span data-i18n="presentation.loc_aichi_meizanso">Meizanso, Aichi</span>, (<span data-i18n="presentation.date_ss2026">Scheduled for August 5th~7th, 2026</span>).
 - **岡原久也**. 「一対比較データにおける非推移性に対するベイズモデリング」, [第34回統計科学セミナー](https://dept.tus.ac.jp/stat/2026/07/717/), <span data-i18n="presentation.loc_tus">Tokyo University of Science, </span> (<span data-i18n="presentation.date_tusseminar">Scheduled for August 20th, 2026</span>).
 - **岡原久也**, 中川智之, 菅澤翔之助. 「非推移性を考慮した一対比較データのベイズ推論」, [2026年度 統計関連学会連合大会](https://pub.confit.atlas.jp/ja/event/jfssa2026), <span data-i18n="presentation.loc_yokoichi">Yokohama City University,</span> (<span data-i18n="presentation.date_rengo2026">Scheduled for September 6th~10th, 2026</span>).
+- **岡原久也**. 「静的共変量を用いた非推移的な優劣関係の定量化」, 科研費研究集会「ベイズ統計サマーシンポジウム2026」, <span data-i18n="presentation.loc_hokkaido_u">Hokkaido University</span>, <span data-i18n="presentation.date_bayesseminar">September 17th~18th, 2026</span>.
 
 
 ## <span data-i18n="home.header_grant">GRANT & FELLOWSHIP</span>  
