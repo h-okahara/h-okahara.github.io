@@ -36,7 +36,7 @@ author_profile: true
 **2026**
 - **岡原久也**. 「静的共変量を用いた非推移的な優劣関係の定量化」, 科研費研究集会「ベイズ統計サマーシンポジウム2026」, <span data-i18n="presentation.loc_hokkaido_u">Hokkaido University</span>, <span data-i18n="presentation.date_bayesseminar">September 17th~18th, 2026</span>.
 - **岡原久也**. 「一対比較データにおける非推移性に対するベイズモデリング」, [第34回統計科学セミナー](https://dept.tus.ac.jp/stat/2026/07/717/), <span data-i18n="presentation.loc_tus">Tokyo University of Science, </span> (<span data-i18n="presentation.date_tusseminar">Scheduled for August 20th, 2026</span>).
-- **岡原久也**. 「非推移性を考慮した一対比較データのベイズ推論」, [統計サマーセミナー2026](https://okuno.net/events/ysg2026/), <span data-i18n="presentation.loc_aichi_meizanso">Meizanso, Aichi</span>, (<span data-i18n="presentation.date_ss2026">Scheduled for August 5th~7th, 2026</span>).
+- **岡原久也**. 「非推移性を考慮した一対比較データのベイズ推論」, [統計サマーセミナー2026](https://okuno.net/events/ysg2026/), <span data-i18n="presentation.loc_aichi_meizanso">Meizanso, Aichi</span>, (<span data-i18n="presentation.date_summerseminar_2026">August 5th~7th, 2026</span>).
 
 **2023~2025**
 - **岡原久也**. 「循環構造をもつ一対比較データに対するランキングモデルの検討」, 科研費研究集会「ベイズ統計サマーシンポジウム2025」, <span data-i18n="presentation.loc_hokkaido_u">Hokkaido University</span>, <span data-i18n="presentation.date_sep_04_2025">September 4th, 2025</span>.
