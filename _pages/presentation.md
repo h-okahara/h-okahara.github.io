@@ -48,10 +48,10 @@ author_profile: true
   <span data-i18n="presentation.loc_hokkaido_u">Hokkaido University</span>, <span data-i18n="presentation.status.scheduled">Scheduled for </span>
   <span data-i18n="presentation.month.09">September</span> <span data-i18n="presentation.date.17">17th</span>~<span data-i18n="presentation.date.18">18th</span>, <span data-i18n="presentation.year.2026">2026</span>.
 - **岡原久也**. 「非推移性の統計数理：順位・選好データへの離散Hodge理論的アプローチ」, [諸科学集会](https://sites.google.com/view/shokagaku/%E3%83%9B%E3%83%BC%E3%83%A0/26%E5%B9%B4%E5%BA%A6%E5%A4%8F),
-  <span data-i18n="presentation.loc_ism"> The Institute of Statistical Mathematics</span>, <span data-i18n="presentation.status.scheduled">Scheduled for </span>
+  <span data-i18n="presentation.loc_ism"> The Institute of Statistical Mathematics</span>,
   <span data-i18n="presentation.month.08">August</span> <span data-i18n="presentation.date.20">20th</span>~<span data-i18n="presentation.date.21">21st</span>, <span data-i18n="presentation.year.2026">2026</span>.
 - **岡原久也**. 「一対比較データにおける非推移性に対するベイズモデリング」, [第34回統計科学セミナー](https://dept.tus.ac.jp/stat/2026/07/717/),
-  <span data-i18n="presentation.loc_tus">Tokyo University of Science, </span> <span data-i18n="presentation.status.scheduled">Scheduled for </span>
+  <span data-i18n="presentation.loc_tus">Tokyo University of Science, </span>
   <span data-i18n="presentation.month.08">August</span> <span data-i18n="presentation.date.20">20th</span>, <span data-i18n="presentation.year.2026">2026</span>.
 - **岡原久也**. 「非推移性を考慮した一対比較データのベイズ推論」, [統計サマーセミナー2026](https://okuno.net/events/ysg2026/),
   <span data-i18n="presentation.loc_aichi_meizanso">Meizanso, Aichi</span>, (<span data-i18n="presentation.month.08">August</span> <span data-i18n="presentation.date.05">5th</span>~<span data-i18n="presentation.date.07">7th</span>, <span data-i18n="presentation.year.2026">2026</span>).
