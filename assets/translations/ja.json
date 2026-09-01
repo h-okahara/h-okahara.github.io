@@ -25,6 +25,7 @@
     "header_about": "自己紹介",
     "header_interest": "研究分野",
     "header_paper": "最近の論文",
+    "header_presentation": "今後の発表予定",
     "header_grant": "競争的資金",
     "header_education": "学歴",
     "header_membership": "所属学会",
@@ -44,6 +45,7 @@
     "preprint": "プレプリント",
     "published": "出版論文",
     "open_access": "オープンアクセス",
+    "link_paper": "論文",
     
     "grant_jst": "次世代研究者挑戦的研究プログラム, 科学技術振興機構",    
     
