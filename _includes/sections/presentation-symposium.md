@@ -19,7 +19,7 @@
   <span data-i18n="presentation.loc_kagawa_kotohira">Kotohira Kadan, Kagawa</span>, <span data-i18n="presentation.month.08">August</span> <span data-i18n="presentation.date.04">4th</span>~<span data-i18n="presentation.date.06">6th</span>, <span data-i18n="presentation.year.2025">2025</span>.
 - **岡原久也**. 「多次元分割表モデリング ~f-divergenceに基づく順序準対称モデルと対称構造の構成~」, [第3回データサイエンス医療研究部門シンポジウム](https://www.rs.tus.ac.jp/de-tasaiensuiryou/activity.html),
   <span data-i18n="presentation.loc_tus">Tokyo University of Science</span>, <span data-i18n="presentation.month.11">November</span>, <span data-i18n="presentation.year.2024">2024</span>.
-- **岡原久也**, 田畑浩治. 「多元分割表におけるf-divergenceに基づく順序準対称モデルと対称構造の構成」, [統計サマーセミナー2024](https://sites.google.com/view/ysg2024),
+- **岡原久也**, 田畑耕治. 「多元分割表におけるf-divergenceに基づく順序準対称モデルと対称構造の構成」, [統計サマーセミナー2024](https://sites.google.com/view/ysg2024),
   <span data-i18n="presentation.loc_niigata_yuzawa">Yuzawa New Otani, Niigata</span>, <span data-i18n="presentation.month.07">July</span> <span data-i18n="presentation.date.30">30th</span>~<span data-i18n="presentation.month.08">August</span> <span data-i18n="presentation.date.01">1st</span>, <span data-i18n="presentation.year.2024">2024</span>.
-- **岡原久也**, 藤澤健吾, 田畑浩治. 「順序付き多元分割表におけるf-divergenceに基づいた非対称モデルについて」, [統計サマーセミナー2023](https://sites.google.com/view/ysg2023/),
+- **岡原久也**, 藤澤健吾, 田畑耕治. 「順序付き多元分割表におけるf-divergenceに基づいた非対称モデルについて」, [統計サマーセミナー2023](https://sites.google.com/view/ysg2023/),
   <span data-i18n="presentation.loc_fukui_awara">Awara Onsen Seifuso, Fukui</span>, <span data-i18n="presentation.month.08">August</span> <span data-i18n="presentation.date.07">7th</span>~<span data-i18n="presentation.date.09">9th</span>, <span data-i18n="presentation.year.2023">2023</span>.
