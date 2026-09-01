@@ -72,6 +72,13 @@
     margin: 25mm;
   }
 
+  /* The site declares color-scheme: dark, from which the browser paints the
+     canvas - the area outside the page box. When Chrome renders the PDF that
+     fills the margins with #121212, so the scheme is reset for printing. */
+  :root {
+    color-scheme: light !important;
+  }
+
   /* The site ships a dark theme; a printed CV has to be black on white. */
   html,
   html[data-theme="dark"],
