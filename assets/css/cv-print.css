@@ -69,7 +69,7 @@
 @media print {
   @page {
     size: A4;
-    margin: 14mm 13mm;
+    margin: 25mm;
   }
 
   /* The site ships a dark theme; a printed CV has to be black on white. */
