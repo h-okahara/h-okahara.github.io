@@ -10,13 +10,15 @@
     "about": "プロフィール",
     "career": "経歴",
     "publication": "出版論文",
-    "presentation": "研究発表"
+    "presentation": "研究発表",
+    "cv": "履歴書"
   },
   
   "page_title": {
     "career": "経歴",
     "publication": "出版論文",
-    "presentation": "研究発表"
+    "presentation": "研究発表",
+    "cv": "履歴書"
   },
   
   "home": {
@@ -182,5 +184,15 @@
     
     "open_access": "オープンアクセス",
     "link_paper": "論文"
+  },
+  "cv": {
+    "name": "岡原久也",
+    "affiliation": "東京理科大学大学院 創域理工学研究科 情報計算科学専攻 博士後期課程 (田畑研究室)",
+    "print": "印刷",
+    "updated": "最終更新",
+
+    "header_software": "ソフトウェア",
+    "software_ca_bibt": "「The Covariate-Assisted Bayesian Intransitive Bradley-Terry Model via Combinatorial Hodge Theory」のRコード",
+    "software_gs_f": "「Modeling asymmetry in multi-way contingency tables with ordinal categories via f-divergence」のRコード"
   }
 }

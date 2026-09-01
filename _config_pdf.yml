@@ -1,0 +1,9 @@
+# Overrides used only by bin/build-cv-pdf.sh.
+#
+# The theme builds every asset URL as {{ site.url }}{{ site.baseurl }}/...
+# When the CV page is rendered to PDF it is served from a local web server,
+# so those URLs have to be root-relative - otherwise the stylesheets, the
+# language switcher and assets/translations/ja.json would be fetched from the
+# already published site and the PDF would lag one deployment behind.
+url: ""
+baseurl: ""

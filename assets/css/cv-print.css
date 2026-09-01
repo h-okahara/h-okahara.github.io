@@ -1,0 +1,192 @@
+/* ==========================================================================
+   CV page
+   Loaded only on pages with `cv_page: true` in the front matter
+   (see _includes/head/custom.html).
+
+   Screen  : styles the download buttons and the section headings.
+   Print   : turns the page into an A4 CV, which is also what
+             bin/build-cv-pdf.sh captures into files/cv_en.pdf and
+             files/cv_ja.pdf.
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   Screen
+   -------------------------------------------------------------------------- */
+
+/* The name / contact block is only needed once the masthead is gone (print). */
+.cv-print-header {
+  display: none;
+}
+
+.cv-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  margin: 0 0 0.75em 0;
+}
+
+.cv-actions .btn {
+  margin: 0;
+  white-space: nowrap;
+}
+
+.cv-updated {
+  font-size: 0.75em;
+  color: var(--global-text-color-light);
+  margin: 0 0 2em 0;
+}
+
+/* Uniform section rules: some shared partials carry their own <hr>, the
+   others do not, so the rule is drawn under every heading instead. */
+.archive h2 {
+  border-bottom: 1px solid var(--global-border-color);
+  padding-bottom: 0.15em;
+}
+
+.archive hr {
+  display: none;
+}
+
+.archive img[src*="shields.io"] {
+  height: 1.15em;
+  vertical-align: -0.15em;
+}
+
+/* --------------------------------------------------------------------------
+   Print / PDF
+   -------------------------------------------------------------------------- */
+
+@media print {
+  @page {
+    size: A4;
+    margin: 14mm 13mm;
+  }
+
+  /* The site ships a dark theme; a printed CV has to be black on white. */
+  html,
+  html[data-theme="dark"],
+  html[data-theme="light"] {
+    --global-base-color: #ffffff;
+    --global-bg-color: #ffffff;
+    --global-footer-bg-color: #ffffff;
+    --global-border-color: #999999;
+    --global-dark-border-color: #999999;
+    --global-text-color: #000000;
+    --global-text-color-light: #444444;
+    --global-link-color: #14315c;
+    --global-link-color-hover: #14315c;
+    --global-link-color-visited: #14315c;
+  }
+
+  html,
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+    font-size: 9.5pt !important;
+  }
+
+  .masthead,
+  .greedy-nav,
+  .sidebar,
+  .author__urls-wrapper,
+  .page__footer,
+  .page__title,
+  .breadcrumbs,
+  .cv-actions {
+    display: none !important;
+  }
+
+  #main {
+    max-width: none !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .archive {
+    width: 100% !important;
+    max-width: none !important;
+    float: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .cv-print-header {
+    display: block !important;
+    border-bottom: 2px solid #000000;
+    margin: 0 0 1em 0;
+    padding-bottom: 0.5em;
+  }
+
+  .cv-print-name {
+    font-size: 20pt;
+    line-height: 1.1;
+    margin: 0 0 0.15em 0;
+    color: #000000 !important;
+  }
+
+  .cv-print-affiliation {
+    font-size: 9.5pt;
+    margin: 0 0 0.2em 0;
+  }
+
+  .cv-print-contact {
+    font-size: 8.5pt;
+    margin: 0;
+    color: #333333 !important;
+  }
+
+  .cv-updated {
+    font-size: 7.5pt;
+    text-align: right;
+    margin: 0 0 1em 0;
+    color: #555555 !important;
+  }
+
+  .archive h2 {
+    font-size: 11pt;
+    letter-spacing: 0.02em;
+    margin: 1.1em 0 0.35em 0;
+    padding-bottom: 0.1em;
+    border-bottom: 1px solid #000000;
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  .archive h3 {
+    font-size: 9.5pt;
+    margin: 0.6em 0 0.2em 0;
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  .archive p,
+  .archive ul,
+  .archive ol {
+    font-size: 9.5pt;
+    margin: 0.2em 0 0.4em 0;
+  }
+
+  .archive li {
+    margin-bottom: 0.25em;
+    line-height: 1.4;
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .archive a {
+    color: #14315c !important;
+    text-decoration: none !important;
+  }
+
+  .archive small {
+    font-size: 8.5pt;
+    color: #333333 !important;
+  }
+
+  /* Badges stay, scaled down to the size of the surrounding text. */
+  .archive img[src*="shields.io"] {
+    height: 9pt;
+    vertical-align: -0.1em;
+  }
+}

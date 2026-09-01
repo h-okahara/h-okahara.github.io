@@ -3,8 +3,18 @@ document.addEventListener("DOMContentLoaded", () => {
   const langText = document.getElementById("lang-text");
   const htmlElement = document.documentElement;
 
+  // URLパラメータ (?lang=en / ?lang=ja) による言語指定
+  // CVのPDF生成 (bin/build-cv-pdf.sh) で各言語のページを描画するために使用する
+  const getUrlLang = () => {
+    const requested = new URLSearchParams(window.location.search).get("lang");
+    return (requested === "en" || requested === "ja") ? requested : null;
+  };
+
+  const urlLang = getUrlLang();
+
   // デフォルト言語の設定
   const getPreferredLang = () => {
+    if (urlLang) return urlLang;
     const savedLang = localStorage.getItem("lang");
     if (savedLang) return savedLang;
     const browserLang = navigator.language || navigator.userLanguage;
@@ -109,7 +119,7 @@ document.addEventListener("DOMContentLoaded", () => {
   (async () => {
     // ページロード時、もし英語設定なら何もしない（HTMLのままでOK）
     // もし日本語設定なら、JSONを読み込んで適用する
-    if (currentLang !== 'en') {
+    if (urlLang || currentLang !== 'en') {
       await switchLanguage(currentLang);
     } else {
       // 英語の場合でも、将来の切り替えのためにバックアップ処理だけ走らせておく

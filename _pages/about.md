@@ -12,11 +12,7 @@ redirect_from:
 <span data-i18n="home.role">I'm a Ph.D. student</span> <span data-i18n="home.affiliation_pre"> in the </span>[<span data-i18n="home.lab">Tahata Lab</span>](https://tahata-lab.is.noda.tus.ac.jp/) <span data-i18n="home.affiliation_mid"> at the </span>[<span data-i18n="home.tus">Tokyo University of Science</span>](https://www.tus.ac.jp/en/grad/riko/) <span data-i18n="home.affiliation_post">.</span>
 
 
-## <span data-i18n="home.header_interest">RESEARCH INTEREST</span>  
-- <span data-i18n="home.interest_1">Categorical Data Analysis</span>
-- <span data-i18n="home.interest_2">Statistical Ranking</span>
-- <span data-i18n="home.interest_3">Preference Learning</span>
-- <span data-i18n="home.interest_4">Bayesian Statistics</span>
+{% include sections/interest.md %}
 
 
 ## <span data-i18n="home.header_paper">RECENT PAPER</span>  
@@ -35,15 +31,14 @@ redirect_from:
   <span data-i18n="presentation.loc_hokkaido_u">Hokkaido University</span>, <span data-i18n="presentation.status.scheduled">Scheduled for </span>
   <span data-i18n="presentation.month.09">September</span> <span data-i18n="presentation.date.17">17th</span>~<span data-i18n="presentation.date.18">18th</span>, <span data-i18n="presentation.year.2026">2026</span>.
 
-## <span data-i18n="home.header_grant">GRANT & FELLOWSHIP</span>  
-- 2025/04 – <span data-i18n="home.present">Present</span> &nbsp; <span data-i18n="home.grant_jst">JST SPRING, Japan Science and Technology Agency (JST)</span>   
+{% include sections/grant.md %}
+
 
 ## <span data-i18n="home.header_education">EDUCATION</span>  
 - <span data-i18n="home.degree_ms">M.S. in Science, Tokyo University of Science (2025)</span>  
 - <span data-i18n="home.degree_bs">B.S. in Science, Tokyo University of Science (2023)</span>
 
 
-## <span data-i18n="home.header_membership">MEMBERSHIP</span>  
-- 2026/02 - <span data-i18n="home.present">Present</span> &nbsp; <span data-i18n="home.member_jss">The Japan Statistical Society</span>
-- 2023/10 – <span data-i18n="home.present">Present</span> &nbsp; <span data-i18n="home.member_msj">Mathematical Society of Japan</span>
-- 2023/02 – <span data-i18n="home.present">Present</span> &nbsp; <span data-i18n="home.member_jsas">Japan Society of Applied Statistics</span>
+{% include sections/membership.md %}
+
+

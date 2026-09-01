@@ -48,6 +48,14 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+      - name: Install Japanese fonts for the CV PDF
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends fonts-noto-cjk
+      - name: Render the CV to PDF
+        # Prints /cv/ with headless Chrome, so files/cv_en.pdf and
+        # files/cv_ja.pdf always match the content of the site.
+        run: bin/build-cv-pdf.sh --out-dir _site/files
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
