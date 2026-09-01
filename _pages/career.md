@@ -11,6 +11,9 @@ author_profile: true
 {% include sections/career-industry.md %}
 
 
+{% include sections/grant.md %}
+
+
 {% include sections/career-teaching.md %}
 
 
