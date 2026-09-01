@@ -92,6 +92,14 @@
     font-size: 9.5pt !important;
   }
 
+  /* body reserves room for the masthead and for the sticky footer (9em); in
+     print both are hidden, and the trailing space would spill onto a blank
+     last page. */
+  body {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
   .masthead,
   .greedy-nav,
   .sidebar,
