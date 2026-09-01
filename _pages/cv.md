@@ -28,9 +28,6 @@ cv_page: true
 
 <p class="cv-updated"><span data-i18n="cv.updated">Last updated</span>: {{ site.time | date: "%Y-%m-%d" }}</p>
 
-{% include sections/interest.md %}
-
-
 {% include sections/career-academic.md %}
 
 

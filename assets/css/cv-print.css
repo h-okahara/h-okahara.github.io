@@ -47,6 +47,16 @@
   display: none;
 }
 
+/* The presentation sections are grouped by year on their own page; the CV
+   lists them as one run, since every entry carries its own date. */
+.archive p.year-group {
+  display: none;
+}
+
+.archive p.year-group + ul {
+  margin-top: 0;
+}
+
 .archive img[src*="shields.io"] {
   height: 1.15em;
   vertical-align: -0.15em;
