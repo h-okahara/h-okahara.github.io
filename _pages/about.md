@@ -30,6 +30,9 @@ redirect_from:
 - **岡原久也**. 「静的共変量を用いた非推移的な優劣関係の定量化」, 科研費研究集会「ベイズ統計サマーシンポジウム2026」,
   <span data-i18n="presentation.loc_hokkaido_u">Hokkaido University</span>, <span data-i18n="presentation.status.scheduled">Scheduled for </span>
   <span data-i18n="presentation.month.09">September</span> <span data-i18n="presentation.date.17">17th</span>~<span data-i18n="presentation.date.18">18th</span>, <span data-i18n="presentation.year.2026">2026</span>.
+- **Okahara, H.**, Nakagawa, T. and Sugasawa, S. "Bayesian Quantification of Intransitivity in Pairwise Comparisons with Covariates", [CFE-CMStatistics 2026](https://www.cmstatistics.org/CFECMStatistics2026/),
+  <span data-i18n="presentation.loc_berlin">HTW Berlin, University of Applied Sciences, Germany,</span> <span data-i18n="presentation.status.scheduled">Scheduled for </span>
+  <span data-i18n="presentation.month.12">December</span> <span data-i18n="presentation.date.12">12th</span>~<span data-i18n="presentation.date.14">14th</span>, <span data-i18n="presentation.year.2026">2026</span>.
 
 {% include sections/grant.md %}
 

@@ -1,5 +1,8 @@
 ## <span data-i18n="presentation.header_intl">INTERNATIONAL CONFERENCE</span>  
 
+- **Okahara, H.**, Nakagawa, T. and Sugasawa, S. "Bayesian Quantification of Intransitivity in Pairwise Comparisons with Covariates", [CFE-CMStatistics 2026](https://www.cmstatistics.org/CFECMStatistics2026/),
+  <span data-i18n="presentation.loc_berlin">HTW Berlin, University of Applied Sciences, Germany,</span> <span data-i18n="presentation.status.scheduled">Scheduled for </span>
+  <span data-i18n="presentation.month.12">December</span> <span data-i18n="presentation.date.12">12th</span>~<span data-i18n="presentation.date.14">14th</span>, <span data-i18n="presentation.year.2026">2026</span>.
 - **Okahara, H.**, Nakagawa, T. and Sugasawa, S. "Bayesian Intransitive Modeling in Paired Comparisons", [The 2026 ISBA World Meeting](https://isba2026.github.io/),
   <span data-i18n="presentation.loc_aichi">Aichi, Japan</span>, <span data-i18n="presentation.month.06">June</span> <span data-i18n="presentation.date.28">28th</span>~<span data-i18n="presentation.month.07">July</span> <span data-i18n="presentation.date.03">3rd</span>, <span data-i18n="presentation.year.2026">2026</span>.
 - **Okahara, H.**, Nakagawa, T. and Sugasawa, S. "Bayesian Inference for Intransitive Pairwise Comparisons via Hodge Decomposition", [BAYSM 2026](https://baysm2026.github.io/),
