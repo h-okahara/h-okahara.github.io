@@ -1,5 +1,6 @@
 ## <span data-i18n="presentation.header_intl">INTERNATIONAL CONFERENCE</span>  
-
+**2026**
+{: .year-group}
 - **Okahara, H.**, Nakagawa, T. and Sugasawa, S. "Bayesian Quantification of Intransitivity in Pairwise Comparisons with Covariates", [CFE-CMStatistics 2026](https://www.cmstatistics.org/CFECMStatistics2026/),
   <span data-i18n="presentation.loc_berlin">HTW Berlin, University of Applied Sciences, Germany,</span> <span data-i18n="presentation.status.scheduled">Scheduled for </span>
   <span data-i18n="presentation.month.12">December</span> <span data-i18n="presentation.date.12">12th</span>~<span data-i18n="presentation.date.14">14th</span>, <span data-i18n="presentation.year.2026">2026</span>.
@@ -7,6 +8,9 @@
   <span data-i18n="presentation.loc_aichi">Aichi, Japan</span>, <span data-i18n="presentation.month.06">June</span> <span data-i18n="presentation.date.28">28th</span>~<span data-i18n="presentation.month.07">July</span> <span data-i18n="presentation.date.03">3rd</span>, <span data-i18n="presentation.year.2026">2026</span>.
 - **Okahara, H.**, Nakagawa, T. and Sugasawa, S. "Bayesian Inference for Intransitive Pairwise Comparisons via Hodge Decomposition", [BAYSM 2026](https://baysm2026.github.io/),
   <span data-i18n="presentation.loc_chiba">Chiba, Japan</span>, <span data-i18n="presentation.month.06">June</span> <span data-i18n="presentation.date.26">26th</span>~<span data-i18n="presentation.date.27">27th</span>, <span data-i18n="presentation.year.2026">2026</span>.
+
+**2023~2025**
+{: .year-group}
 - **Okahara, H.**, Nakagawa, T. and Sugasawa, S. "Modeling pairwise comparison data with cyclic and acyclic structures under a Bayesian framework", [CFE-CMStatistics 2025 Hybrid Conference](https://www.cmstatistics.org//CFECMStatistics2025/index.php),
   <span data-i18n="presentation.loc_london">London, UK</span>, <span data-i18n="presentation.month.12">December</span> <span data-i18n="presentation.date.13">13rd</span>~<span data-i18n="presentation.date.15">15th</span>, <span data-i18n="presentation.year.2025">2025</span>.
 - **Okahara, H.** "f-divergence based modeling of asymmetric structures in multi-way ordinal contingency tables", [Further Developments of Information Geometry](https://sites.google.com/view/fdig2025/),
