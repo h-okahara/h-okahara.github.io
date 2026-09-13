@@ -24,9 +24,6 @@ redirect_from:
 
 
 ## <span data-i18n="home.header_presentation">UPCOMING PRESENTATION</span>
-- **岡原久也**, 中川智之, 菅澤翔之助. 「非推移性を考慮した一対比較データのベイズ推論」, [2026年度 統計関連学会連合大会](https://pub.confit.atlas.jp/ja/event/jfssa2026),
-  <span data-i18n="presentation.loc_yokoichi">Yokohama City University,</span> <span data-i18n="presentation.status.scheduled">Scheduled for </span>
-  <span data-i18n="presentation.month.09">September</span> <span data-i18n="presentation.date.06">6th</span>~<span data-i18n="presentation.date.10">10th</span>, <span data-i18n="presentation.year.2026">2026</span>.
 - **岡原久也**. 「静的共変量を用いた非推移的な優劣関係の定量化」, 科研費研究集会「ベイズ統計サマーシンポジウム2026」,
   <span data-i18n="presentation.loc_hokkaido_u">Hokkaido University</span>, <span data-i18n="presentation.status.scheduled">Scheduled for </span>
   <span data-i18n="presentation.month.09">September</span> <span data-i18n="presentation.date.17">17th</span>~<span data-i18n="presentation.date.18">18th</span>, <span data-i18n="presentation.year.2026">2026</span>.
