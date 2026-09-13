@@ -83,6 +83,22 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     });
 
+    // 日本語では「9月 6日」のように月と日の間にスペースを入れない
+    // (英語の "September 6th" はスペースが必要なため、月spanと日spanの間の
+    // テキストノードだけを言語に応じて詰めたり戻したりする)
+    document.querySelectorAll('[data-i18n^="presentation.month."]').forEach(monthEl => {
+      const sep = monthEl.nextSibling;
+      const dateEl = sep && sep.nextSibling;
+      const isDateSpan = dateEl && dateEl.nodeType === Node.ELEMENT_NODE &&
+        (dateEl.getAttribute("data-i18n") || "").startsWith("presentation.date.");
+
+      if (sep && sep.nodeType === Node.TEXT_NODE && sep.textContent === " " && isDateSpan) {
+        sep.textContent = lang === "en" ? " " : "";
+      } else if (sep && sep.nodeType === Node.TEXT_NODE && sep.textContent === "" && isDateSpan && lang === "en") {
+        sep.textContent = " ";
+      }
+    });
+
     // <html>タグの言語設定とボタン表示更新
     htmlElement.setAttribute("lang", lang);
     updateToggleButton(lang);
