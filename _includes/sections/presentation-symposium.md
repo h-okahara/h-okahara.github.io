@@ -2,7 +2,7 @@
 **2026**
 {: .year-group}
 - **岡原久也**. 「静的共変量を用いた非推移的な優劣関係の定量化」, 科研費研究集会「ベイズ統計サマーシンポジウム2026」,
-  <span data-i18n="presentation.loc_hokkaido_u">Hokkaido University</span>, <span data-i18n="presentation.status.scheduled">Scheduled for </span>
+  <span data-i18n="presentation.loc_hokkaido_u">Hokkaido University</span>,
   <span data-i18n="presentation.month.09">September</span> <span data-i18n="presentation.date.17">17th</span>~<span data-i18n="presentation.date.18">18th</span>, <span data-i18n="presentation.year.2026">2026</span>.
 - **岡原久也**. 「非推移性の統計数理：順位・選好データへの離散Hodge理論的アプローチ」, [諸科学集会](https://sites.google.com/view/shokagaku/%E3%83%9B%E3%83%BC%E3%83%A0/26%E5%B9%B4%E5%BA%A6%E5%A4%8F),
   <span data-i18n="presentation.loc_ism"> The Institute of Statistical Mathematics</span>,
