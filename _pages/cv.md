@@ -31,6 +31,9 @@ cv_page: true
 {% include sections/career-academic.md %}
 
 
+{% include sections/career-research.md %}
+
+
 {% include sections/career-industry.md %}
 
 
