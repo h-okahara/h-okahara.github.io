@@ -14,3 +14,6 @@ author_profile: true
 {% include sections/presentation-symposium.md %}
 
 
+{% include sections/presentation-others.md %}
+
+

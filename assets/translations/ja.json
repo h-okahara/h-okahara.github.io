@@ -107,9 +107,11 @@
     "header_intl": "国際会議",
     "header_domestic": "国内学会・研究集会",
     "header_symposium": "シンポジウム・ワークショップ",
+    "header_others": "その他",
 
     "loc_london": "イギリス, ロンドン",
     "loc_berlin": "ドイツ, ベルリン",
+    "loc_ucd": "アイルランド, ユニバーシティ・カレッジ・ダブリン",
     "loc_aichi": "日本, 愛知",  
     "loc_tokyo": "日本, 東京",
     "loc_chiba": "日本, 千葉",
