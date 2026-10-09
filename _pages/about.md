@@ -15,7 +15,6 @@ redirect_from:
 
 <span data-i18n="home.statement_vision">Many decisions in everyday life involve comparing alternatives and expressing preferences. I believe that statistically principled methods for summarizing such preferences, while accounting for heterogeneity and uncertainty, are important for supporting decision-making.</span>
 
-
 {% include sections/interest.md %}
 
 
